@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  background-color: azure;
+  
+}
+
+header {
+  text-align: center;
+  margin-bottom: 100px;
+  background-image: url('https://imgs.search.brave.com/1__onv0VcPN6PJJfAsdNMO3YAxlTz5MMJtBgxwPashc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/dGh1bWJfYmFjay9m/aDI2MC9iYWNrZ3Jv/dW5kLzIwMjEwNzEz/L3BuZ3RyZWUtYWJz/dHJhY3Qtc2ltcGxl/LWJhY2tncm91bmQt/cG9ydGZvbGlvLWlt/YWdlXzc0MTQ0My5q/cGc')
+}
+
+section {
+  margin-bottom: 100px;
+}
+
+h2 {
+  color:black; 
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+  
+}
